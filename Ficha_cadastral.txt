@@ -1,0 +1,155 @@
+<html>
+<head>
+<Body>
+
+ <table border="0" frame="border" width="800" cellspacing="0"><P>
+<tr>
+<td style="background-color:orange">Dados Pessoais</td><P>
+ </tr>
+      
+      <tr>
+      <td style="background-color:81BEF7">
+
+                Nome: 
+          <input type="text" Name="bt1" size=35 value><p>
+           Sexo: 
+          <input type="radio"name="voc" value="M">M
+           <input type="radio"="voc"value="F">F
+             Estado Civil
+           <Select Name="<Select Name="Selec">
+            <option value="Solteiro">Solteiro </select><P>
+            R.G:
+            <input type="bt1" size=10 value>
+             Org.Emissor:
+           <input type="bt1" size=9 value><P>
+             CPF*:
+            <input type="text" name="nome" size=8 value= "__.___.___-__">
+            Nascimento: 
+            <input type="text" name="nome"size=11 value="__/__/___"><P>
+             Filiaçao:
+              <input type="bt1" size=35 value><P>
+            Profissão: 
+           <Select Name="<Select Name="Selecione">
+            <option value="Selecione">Selecione </select><P>
+
+             Tel.Resid:
+           <input type="text" Name="bt1" size= 8 value="(  )  -"><P>
+
+         Tel.Celular: 
+        <input type="text" Name="bt1" size=8 value="(  )  -"><p>
+         E-mail: 
+         <input type="text" Name="bt1" size=35 value> <p>
+     
+
+     <input type="checkbox" name="Rec" value="Receber Informativo">Receber Informativo <p>
+
+
+      <input type="submit" value="Profissão">
+    <input type="submit" value="Fotografa"><h5>*Dados obrigatorios</h5>
+     
+</td>
+</tr>
+
+ <table align='left' border="0" frame="border" bodercolor='orange'   width="450" cellspacing="0">
+
+ <font color="81BEF7"><td style="background-color:orange">Carteira de Motoriasta</td></font><p>
+
+      <tr>
+      <td style="background-color:81BEF7">
+Estado: 
+<Select Name="<Select Name="Digite Estado">
+<option value="Selecione"> Digite Estado</select>
+      Categoria:
+ <Select Name="<select mone="Categoria">
+<option value="Selecione"> Selecione</select><p>
+Data de emissão:
+ <input type="text" name="nome" size=8 value="__/__/___"> 
+  Data de validade: 
+<input type="text" name="nome" size=8 value="__/__/___"><P>
+Número: 
+<input type="text" Name="bt1" size=30 value><p>
+Registro: 
+<input type="text" Name="bt1" size=30 value><br>
+
+
+
+</td>
+</tr>
+ <table  border="0" frame="border" bodercolor=4682B4 width="350" cellspacing="0">
+
+<td style="background-color:orange">Referência comercial</td><P> 
+
+      <tr>
+      <td style="background-color:81BEF7">
+Empresa: 
+  <input type="text" Name="bt1" size=25value><p>
+Cargo:
+     <input type="text" Name="bt1" size=25 value><p>
+Tel.Comercial:
+      <input type="text" Name="bt1" size= 25 value="(  )  -"><P>
+        Fax:
+       <input type="text" Name="bt1" size=25 value="(  )  -">
+
+
+      </td>
+      </tr>
+ <table border="0" frame="border" boder color='81BEF7' width="800" cellspacing="0">
+
+<td style="background-color:orange">Endereço Residêncial</td><P>
+
+      <tr>
+      <td style="background-color:81BEF7">
+Cep:
+ <input type="text" Name="bt1" size=10 value="__-___-__-__">
+<input type="submit" value="Pesquisar por Cep"><p>
+
+Estado:
+ <Select Name="<Select Name="Digite Estado">
+<option value="Selecione"> Digite Estado</select><P>
+   Cidade:
+ <Select Name="<Select Name="Digite Estado">
+<option value="Selecione"> Digite Estado</select><P>
+
+Bairro:
+ <Select Name="<Select Name="SELECIONE UMA CIDADE">
+<option value="Selecione"> Digite Estado</select><P>
+
+Rua:
+ <input type="text" Name="bt1" size= 30 ><P>
+Compl: <input type="text" Name="bt1" size= 27><P>
+
+
+<input type="submit" value="Cadastro de Bairro"><p>
+</table>
+
+      </td>
+      </tr>
+
+ <table  border="0" frame="border" bodercolor=4682B4 width="800" cellspacing="0">
+
+<td style="background-color:orange">Endereço Comercial</td><P>    
+      <tr>
+      <td style="background-color:81BEF7">
+ Cep: <input type="text" Name="bt1" size=10 value="__-___-__-__">
+    <input type="submit" value="Pesquisar por Cep."><P>
+       Estado:
+       <Select Name="<Select Name="Digite Estado">
+    <option value="Selecione"> Digite Estado</select><P>
+       Cidade:
+ <Select Name="<Select Name="seLECIONE UM ESTADO">
+       <option value="Selecione"> Digite Estado</select><P>
+         Bairro:
+ <Select Name="<Select Name="SELECIONE CID">
+              <option value="Selecione"> SELECIONE UMA CIDADE</select></><P>
+                 Rua:
+ <input type="text" Name="bt1" size= 30value=" "><P>
+                   Compl.:
+<input type="text" Name="bt1" size= 30value=" "><P>
+                   <input type="Button" name="v1" value="Cadastro de Bairro">
+
+
+      </td>
+      </tr>
+</table> 
+</body> 
+</html> 
